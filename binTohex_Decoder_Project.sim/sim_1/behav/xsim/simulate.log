@@ -1,0 +1,20 @@
+Time resolution is 1 ps
+Time=0 | sw(bin)=0000 | hex_out=0xf | seg=1111111 | an=1110
+Time=10000 | sw(bin)=0000 | hex_out=0x0 | seg=1000000 | an=1110
+Time=20000 | sw(bin)=0001 | hex_out=0x1 | seg=1111001 | an=1110
+Time=30000 | sw(bin)=0010 | hex_out=0x2 | seg=0100100 | an=1110
+Time=40000 | sw(bin)=0011 | hex_out=0x3 | seg=0110000 | an=1110
+Time=50000 | sw(bin)=0100 | hex_out=0x4 | seg=0011001 | an=1110
+Time=60000 | sw(bin)=0101 | hex_out=0x5 | seg=0010010 | an=1110
+Time=70000 | sw(bin)=0110 | hex_out=0x6 | seg=0000010 | an=1110
+Time=80000 | sw(bin)=0111 | hex_out=0x7 | seg=1111000 | an=1110
+Time=90000 | sw(bin)=1000 | hex_out=0x8 | seg=0000000 | an=1110
+Time=100000 | sw(bin)=1001 | hex_out=0x9 | seg=0010000 | an=1110
+Time=110000 | sw(bin)=1010 | hex_out=0xa | seg=0001000 | an=1110
+Time=120000 | sw(bin)=1011 | hex_out=0xb | seg=0000011 | an=1110
+Time=130000 | sw(bin)=1100 | hex_out=0xc | seg=1000110 | an=1110
+Time=140000 | sw(bin)=1101 | hex_out=0xd | seg=0100001 | an=1110
+Time=150000 | sw(bin)=1110 | hex_out=0xe | seg=0000110 | an=1110
+Time=160000 | sw(bin)=1111 | hex_out=0xf | seg=0001110 | an=1110
+Time=170000 | sw(bin)=1111 | hex_out=0xf | seg=1111111 | an=1110
+$finish called at time : 180 ns : File "C:/Users/lenovo/Desktop/Internship_1/VLSI_P/binTohex_Decoder_Project/binTohex_Decoder_Project.srcs/sim_1/new/top_tb.v" Line 53

@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../binTohex_Decoder_Project.srcs/sources_1/new/binary_to_onehot.v" \
+"../../../../binTohex_Decoder_Project.srcs/sources_1/new/onehot_to_7seg.v" \
+"../../../../binTohex_Decoder_Project.srcs/sources_1/new/top.v" \
+"../../../../binTohex_Decoder_Project.srcs/sim_1/new/top_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
